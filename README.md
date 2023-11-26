@@ -2,6 +2,9 @@
 
 ### Project Overview
 
+
+![Auto_Insurance_ Dashoard_png](https://github.com/Chioma54/Auto_Insurance_Analysis/assets/108901312/3a126253-1cea-4884-b5e4-3d56653d858c)
+
 ### Data Source
 
 ### Data Cleaning/Preparation
